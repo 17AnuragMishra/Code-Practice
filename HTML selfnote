@@ -1,0 +1,52 @@
+<HTML>-- is must 
+
+<HEAD> is followed by <TITTLE>
+then we got---- <BODY>
+ 
+-- In body we got everything like 
+		<hr> for horizontal line
+		<h1,2,3,4,5,6> is heading
+		<br> for gap between paragraph
+		<p> for paragraph writing 
+		
+
+<b> is used for bold letter 
+<i> italic for italic words
+<sub> for subscripts 
+<sup> for supersripts
+<ins> to insert
+<del> to appear line on words
+<mark> to mark the word
+<big> to make words big
+
+
+FOR LINK-----
+we use <a href="insert address" condition(like to download we'll use download)> text which will show up like "download now"</a> 
+
+To insert image--
+<a src="address\name of image(if present somewhere else" height="100%" width="100%" alt="This is something">
+
+<a src="name of image(if present in same folder" height="100%" width="100%" alt="This is something">NOTE alt is used if the image could not be shown in some cases
+
+
+TO redirect to particular location us hyperlink using image----
+
+<a href="link of website"><img src="Image location" height="100% widht">
+
+
+
+Unordered list ----
+--for unordered list we use this identation
+<ul>
+	<li>bread dough</li>
+	<li>tomato sauce</li>
+	-- this li is used for list
+</ul>
+
+for ordered list we use--
+<ol type="1" start="10">
+	<li>let say anything</li>
+	<li>bullshit</li>
+	
+</ol>
+
